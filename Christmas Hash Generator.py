@@ -1,7 +1,7 @@
 import hashlib, json
 from datetime import date
 
-cousins = "Megan", "Josiah", "Emi", "Ellie", "Bella", "Kalyn", "Abby", "Robert", "Tyler", "Truett", "Rah Rah", "Nana", "Papa", "Aunt Sissy"
+cousins = "Megan", "Josiah", "Emi", "Ellie", "Bella", "Kalyn", "Abby", "Robert", "Tyler", "Truett", "Rah Rah", "Nana", "Papa", "Aunt Sissy", "Uncle Monkey"
 
 class person():
 
